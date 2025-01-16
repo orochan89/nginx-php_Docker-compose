@@ -1,4 +1,4 @@
-version: '3.8' # docker-composeのバーションを指定
+# version: '3.8' # docker-composeのバーションを指定
 services:
   nginx: #サービス名
     container_name: "nginx-docker-compose" # コンテナ名
